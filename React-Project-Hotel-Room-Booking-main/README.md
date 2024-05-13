@@ -6,7 +6,7 @@
 
 <br />
 
-                    </> HAPPY DEVELOPING 🤣 </>
+                    </> HAPPY DEVELOPING  </>
 
 <!-- project link -->
 
